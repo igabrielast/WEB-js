@@ -1,0 +1,20 @@
+body {
+    background-color: #C9B88A;
+}
+
+#foto {
+    width: 200PX;
+    border-radius: 250px;
+}
+
+#d1, #d2 {
+    text-align: center;
+}
+#d3{
+    padding: 15px;
+    text-align: center;
+}
+.bt {
+    margin-top: 20px;
+    padding: 20px;
+}
